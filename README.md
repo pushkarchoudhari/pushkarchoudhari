@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Pushkar Choudhari 👋</h1>
 
 <p align="center">
-  <b>Cloud & Cloud Engineer @ LTIMindtree | Bengaluru, India</b>
+  <b>Cloud & DevOps Engineer @ LTIMindtree | Bengaluru, India</b>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ### About Me
 
-Cloud Engineer with ~2 years of experience at **LTIMindtree**, building scalable applications and cloud-native solutions. I work across the full stack — from crafting responsive frontends to designing cloud infrastructure and CI/CD pipelines. Passionate about clean code, automation, and solving real-world problems.
+Cloud Engineer with 2 years of experience at **LTIMindtree**, building scalable applications and cloud-native solutions. I work across the full stack — from crafting responsive frontends to designing cloud infrastructure and CI/CD pipelines. Passionate about clean code, automation, and solving real-world problems.
 
 - Currently managing **500+ Azure subscriptions** and **100+ production workloads** with **99.99% uptime**
 - Built **25+ CI/CD pipelines** and reduced release time from hours to **under 10 minutes**
