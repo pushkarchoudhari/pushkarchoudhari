@@ -16,13 +16,13 @@
 
 ### About Me
 
-Cloud Engineer with 2 years of experience at **LTIMindtree**, building scalable applications and cloud-native solutions. I work across the full stack — from crafting responsive frontends to designing cloud infrastructure and CI/CD pipelines. Passionate about clean code, automation, and solving real-world problems.
+Cloud & DevOps Engineer with 2.5+ years of experience at **LTIMindtree**, building scalable applications and cloud-native solutions. I work across the full stack — from crafting responsive frontends to designing cloud infrastructure and CI/CD pipelines. Passionate about clean code, automation, and solving real-world problems.
 
 - Currently managing **500+ Azure subscriptions** and **100+ production workloads** with **99.99% uptime**
 - Built **25+ CI/CD pipelines** and reduced release time from hours to **under 10 minutes**
 - Achieved **~60% cloud cost savings** through optimization strategies
-- Preparing for **AZ-104** Azure Administrator certification
-
+- AZ-400: Microsoft Certified: DevOps Engineer Expert | AZ-104: Microsoft Certified Azure Administrator | AZ-900: Microsoft Certified Azure
+Fundamentals | Claude Certified Developer – Foundations (CCDV-F) | Docker | Kubernetes 
 ---
 
 ### Tech Stack
