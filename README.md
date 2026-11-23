@@ -6,9 +6,8 @@
 
 <p align="center">
   <a href="https://pushkarchoudhari.com"><img src="https://img.shields.io/badge/Portfolio-pushkarchoudhari.com-0077B6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/pushkar-choudhari"><img src="https://img.shields.io/badge/LinkedIn-pushkar--choudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pushkarchoudhari/"><img src="https://img.shields.io/badge/LinkedIn-pushkar--choudhari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:cpushkar9601@gmail.com"><img src="https://img.shields.io/badge/Email-cpushkar9601@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://topmate.io/pushkarchoudhari"><img src="https://img.shields.io/badge/Book%20a%20Call-Topmate-00e5a0?logo=googlecalendar&logoColor=white" /></a>
   
 </p>
 
